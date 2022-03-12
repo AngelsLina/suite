@@ -1,0 +1,21 @@
+body {
+font-family: sans-serif;
+}
+h1 {
+font-size: 50px; 
+text-align: center;
+}
+h2 {
+  color:pink;
+}
+p {
+background-color:lightblue;
+}
+
+img{
+  border:5px solid pink;
+}
+td{
+border:5px solid pink;
+background-color:lightblue;
+}
